@@ -1,5 +1,5 @@
 {
-  "enabled": false,
+  "enabled": true,
   "imageSrc": "banner.svg",
   "actionType": "none",
   "actionTarget": null,
