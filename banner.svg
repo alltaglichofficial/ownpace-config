@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="720" height="900" viewBox="0 0 720 900" role="img" aria-labelledby="title desc">
-<title id="title">ownpace — Make your tempo running</title><desc id="desc">CAMERA HUD에서 나의 러닝 화면을 꾸며 보세요.</desc>
-<rect width="720" height="900" rx="40" fill="#181c18"/>
-<path d="M-40 735C120 495 220 855 425 640S600 560 770 290" fill="none" stroke="#d4ff00" stroke-width="7"/>
-<path d="M-40 775C120 535 220 895 425 680S600 600 770 330" fill="none" stroke="#6c7764" stroke-width="2" stroke-dasharray="12 14"/>
-<g fill="#f3f3ee" font-family="Arial, sans-serif"><text x="62" y="104" font-size="29" font-weight="600">ownpace</text><text x="62" y="236" font-size="74" font-weight="700">Make</text><text x="62" y="321" font-size="74" font-weight="700">your tempo</text><text x="62" y="406" font-size="74" font-weight="700">running.</text><text x="62" y="488" font-size="24" fill="#c3c9bc">나의 러닝 화면, 나의 템포.</text><text x="62" y="803" font-size="20" fill="#c3c9bc">Settings · CAMERA HUD에서 배치를 편집하세요.</text></g>
-</svg>

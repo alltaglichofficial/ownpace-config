@@ -27,7 +27,7 @@ OWNPACE 앱 홈 화면의 **팝업 배너**를 여기서 바꿉니다.
 ```json
 {
   "enabled": false,
-  "imageSrc": "banner.svg",
+  "imageSrc": "banner.jpg",
   "actionType": "none",
   "actionTarget": null,
   "altText": ""
@@ -52,7 +52,7 @@ OWNPACE 앱 홈 화면의 **팝업 배너**를 여기서 바꿉니다.
 2. 이미지 파일을 끌어다 놓고 **Commit changes**를 누릅니다.
 3. `promo.json`의 `imageSrc`를 그 파일 이름으로 바꿉니다.
 
-- 파일 형식: `png`, `jpg`, `webp`, `svg`
+- 파일 형식: `jpg` 권장 (`png`, `webp`, `svg`도 가능). 지금 배너는 `banner.jpg`입니다.
 - 파일 이름: 영어·숫자·`-`·`_`만 (띄어쓰기·한글 불가). 예: `event-2026-12.png`
 - 권장 크기: 가로 720 × 세로 900 (세로로 긴 4:5), 1MB 이하
 - 같은 이름으로 덮어쓰는 것보다 **새 이름으로 올리고 `imageSrc`를 바꾸는 것**이 바로 적용됩니다.
